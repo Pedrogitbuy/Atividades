@@ -1,8 +1,8 @@
 # Atividades
 ---
-## Repositórios com códigos e exercícios C, HTML
- - Para executar utilize DevC++ e/ ou brouwser
-   
+##  Repositório com códigos e exercícios C, HTML
+- Para executar utilize DevC++ e/ou um Browser
+
 |C|HTML|
 |-|-|
-|DevC++|Brouwser|
+|DevC++|Browser|
