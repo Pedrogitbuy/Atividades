@@ -1,12 +1,12 @@
 #include <stdio.h>
-/*Programa que avalia alunos Médias*/
+/*Programa que avalia alunos MÃ©dias*/
 int main (){
-	//Declaração de variáveis
+	//DeclaraÃ§Ã£o de variÃ¡veis
 	int media;
 	//Entrada de dados 
-	printf("Digite a média final do aluno de 0 a 1000:");
+	printf("Digite a mÃ©dia final do aluno de 0 a 1000:");
 	scanf("&d", &media);
-	//Processamento e Saída com condicional
+	//Processamento e SaÃ­da com condicional
 	if(media >=50)
 	    printf("Aprovado");
 	else 
