@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* ... Outras regras de estilo ... */
+
+img {
+    width: 50%;
+    height: auto;
+}
