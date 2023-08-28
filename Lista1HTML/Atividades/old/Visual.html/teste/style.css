@@ -1,0 +1,8 @@
+/* styles.css */
+
+body {
+    background-image: url('download.jpg'); /* Substitua 'background.jpg' pelo nome da sua imagem de fundo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
